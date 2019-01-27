@@ -11,7 +11,7 @@ javac -cp <path-to-jdk8>/lib/tools.jar *.java
 java -cp .:<path-to-jdk8>/lib/tools.jar JavacASTViewer <path-to-java-file>
 ```
 
-## Java 9+.
+### Java 9+.
 ```
 javac *.java
 java -cp . JavacASTViewer <path-to-java-file>
